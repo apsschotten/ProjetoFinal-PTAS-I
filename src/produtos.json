@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "nome": "Pelúcia El Gato",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://m.media-amazon.com/images/I/71U3SXS0L0L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Pelúcia Gato Pusheen - Ver. 01",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://m.media-amazon.com/images/I/71nXL4rX0qL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Pelúcia Gato Salsicha",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://roomtery.com/cdn/shop/products/kawaii-cute-long-plushie-cat-korean-stuffed-pillow-decor-roomtery3.jpg?v=1673457316"
+    },
+    {
+        "id": 4,
+        "nome": "Pelúcia Gato Tubarão",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://m.media-amazon.com/images/I/41pCR1bHidL._AC_.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Pelúcia Gato Preto Sorridente",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://c1-ebgames.eb-cdn.com.au/merchandising/images/packshots/627ffe7567f4451899185932888e5b29_Large.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Pelúcia Pokémon Squirtle",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://www.toyworld.com.au/cdn/shop/files/POKEMON_2024_20INCH_20PLUSH_20-_20SQUIRTLE_4a0521c7-5d31-4d8f-8751-08e9dcd78c73.jpg?v=1732673934"
+    },
+    {
+        "id": 7,
+        "nome": "Pelúcia Pokémon Charmander",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://media.kohlsimg.com/is/image/kohls/5044435?wid=1500&hei=1500&op_sharpen=1&qlt=60"
+    },
+    {
+        "id": 8,
+        "nome": "Pelúcia Pokémon Bulbassauro",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_709682-MLB77050436460_062024-F.webp"
+    },
+    {
+        "id": 9,
+        "nome": "Coleção - 3 Pelúcias Pokémon - Squirtle, Charmander e Bulbasauro",
+        "preço": 119.99,
+        "estoque": 0,
+        "imagem": "https://i5.walmartimages.com/seo/Pokemon-Plush-Starter-3-Pack-Charmander-Squirtle-Bulbasaur-8-Stuffed-Animals_1cab57b5-5c11-427a-8cec-58bfa2f3e5f4.fd1168cfb6e70dc49395c80df4384fa9.jpeg"
+    },
+    {
+        "id": 10,
+        "nome": "Pelúcia Pokémon - Snorlax e Pikachu",
+        "preço": 89.99,
+        "estoque": 0,
+        "imagem": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/1280x1280/products/154381/670150/pokemon-center-original-plush-pokemon-sleep-good-night-snorlax-and-pikachu__47912.1737723039.jpg?c=2?imbypass=on"
+    },
+    {
+        "id": 11,
+        "nome": "Pelúcia Pokémon Pikachu",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://images-americanas.b2w.io/produtos/7472371467/imagens/pokemon-plush-grande-12-inch-plush-pikachu/7472371467_1_xlarge.jpg"
+    },
+    {
+        "id": 12,
+        "nome": "Pelúcia Pokémon Pikachu - Roupas Tradicionalmente Japonesas",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://img.joomcdn.net/18667a1e607aa21841f0fcec72534bd4b3e0e55b_original.jpeg"
+    },
+    {
+        "id": 13,
+        "nome": "Pelúcia Pokémon Togedemaru",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://meccha-japan.com/610240-large_default/plush-togedemaru-mofugutto-pokemon-tsuretette.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Pelúcia Evangelion - Rei Ayanami - Rei Chikita",
+        "preço": 49.99,
+        "estoque": 10,
+        "imagem": "https://m.media-amazon.com/images/I/51kvZCz0WwL._AC_SL1200_.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Urso de Pelúcia - Ver. 01",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://m.media-amazon.com/images/I/81b5Wnh3XbL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Urso de Pelúcia - Ver. 02",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://gund.com/cdn/shop/files/jigfrjuxmef3ekd6kl48_c1daa9ed-3661-4c67-9e7c-927ee20a28df_2048x.jpg?v=1736287004"
+    },
+    {
+        "id": 17,
+        "nome": "Urso de Pelúcia - Ver. 03",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://i0.wp.com/giftme.ie/wp-content/uploads/2021/10/01781.jpg?resize=450%2C450&ssl=1"
+    },
+    {
+        "id": 18,
+        "nome": "Urso de Pelúcia Astronauta",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/1151568/ursinho_branco_colecao_astronauta_br_machine_2068_1_48cfae2d4575176be45996500e37038d.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "Pelúcia FNAF Chica",
+        "preço": 49.99,
+        "estoque": 19,
+        "imagem": "https://m.media-amazon.com/images/I/61zkYh8qy-L._AC_SX569_.jpg"
+    },
+    {
+        "id": 20,
+        "nome": "Pelúcia FNAF Freddy",
+        "preço": 49.99,
+        "estoque": 87,
+        "imagem": "https://sanshee.com/cdn/shop/files/sanshee_five-nights-at-fredd_s_freddy-plush_updated.jpg?v=1698347695&width=1200"
+    },
+    {
+        "id": 21,
+        "nome": "Pelúcia FNAF Bonnie",
+        "preço": 49.99,
+        "estoque": 19,
+        "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S396957141d4a44b7a98091b8d126f311m.jpg_960x960q75.jpg_.avif"
+    },
+    {
+        "id": 22,
+        "nome": "Pelúcia FNAF Foxy",
+        "preço": 49.99,
+        "estoque": 87,
+        "imagem": "https://m.media-amazon.com/images/I/51H-onvt5eL._AC_SX679_.jpg"
+    },
+    {
+        "id": 23,
+        "nome": "Coleção - 3 Pelúcias Supernatural - Sam, Dean e Castiel",
+        "preço": 119.99,
+        "estoque": 0,
+        "imagem": "https://i.pinimg.com/736x/11/cd/fa/11cdfabf60e4214373b0af3dbe760a93.jpg"
+    },
+    {
+        "id": 24,
+        "nome": "Pelúcia Supernatural Castiel",
+        "preço": 49.99,
+        "estoque": 0,
+        "imagem": "https://m.media-amazon.com/images/I/81Gl4zC2E8L._AC_SX569_.jpg"
+    },
+    {
+        "id": 25,
+        "nome": "Pelúcia Supernatural Sam Winchester",
+        "preço": 49.99,
+        "estoque": 46,
+        "imagem": "https://m.media-amazon.com/images/I/61iZp41t32L._AC_SY550_.jpg"
+    },
+    {
+        "id": 26,
+        "nome": "Pelúcia Supernatural Dean Winchester - Ver. 01",
+        "preço": 49.99,
+        "estoque": 64,
+        "imagem": "https://cdn.media.amplience.net/s/hottopic/10782015_hi?$productMainDesktop$&fmt=auto"
+    },
+    {
+        "id": 27,
+        "nome": "Pelúcia Supernatural Dean Winchester - Ver. 02",
+        "preço": 49.99,
+        "estoque": 19,
+        "imagem": "https://i.ebayimg.com/images/g/ZaIAAOSwgNRhpatb/s-l1600.webp"
+    },
+    {
+        "id": 28,
+        "nome": "Pelúcia Coelho Miffy",
+        "preço": 49.99,
+        "estoque": 15,
+        "imagem": "https://i5.walmartimages.com/seo/Douglas-Miffy-Large-Classic-White-Bunny-Rabbit-Plush-Stuffed-Animal_7bfd6e95-139a-452b-9af9-d2f035036b7f.3b063fafde9f64d885222022634b7477.jpeg"
+    },
+    {
+        "id": 29,
+        "nome": "Pelúcia Raposa",
+        "preço": 49.99,
+        "estoque": 35,
+        "imagem": "https://m.media-amazon.com/images/I/71QyhL0njQL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 30,
+        "nome": "Pelúcia Cachorro",
+        "preço": 49.99,
+        "estoque": 0,
+        "imagem": "https://m.media-amazon.com/images/I/818oiGUgqdL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 31,
+        "nome": "Pelúcia Gato Pusheen - Ver. 02",
+        "preço": 49.99,
+        "estoque": 20,
+        "imagem": "https://media.hedeya.com/catalog/product/cache/9226ed1960d3440a4fba9c3c101cbf77/6/1/61xe9iz_ntl._ac_sl1000_.jpg"
+    },
+    {
+        "id": 32,
+        "nome": "Pelúcia Snoopy",
+        "preço": 49.99,
+        "estoque": 5,
+        "imagem": "https://m.media-amazon.com/images/I/61s2AsJqREL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 33,
+        "nome": "Pelúcia Garfield",
+        "preço": 49.99,
+        "estoque": 5,
+         "imagem": "https://m.media-amazon.com/images/I/61ISQgTR3TL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 34,
+        "nome": "Pelúcia Hello Kitty",
+        "preço": 49.99,
+        "estoque": 5,
+        "imagem": "https://www.sanrio.com/cdn/shop/products/Untitled-1_d1949699-6a20-4837-88f2-6f4aba17478a_800x.png?v=1650038377"
+    },
+    {
+        "id": 35,
+        "nome": "Pelúcia Kuromi",
+        "preço": 49.99,
+        "estoque": 12,
+        "imagem": "https://www.sanrio.com/cdn/shop/products/627780-Zoom.1_800x.jpg?v=1664384661"
+    },
+    {
+        "id": 36,
+        "nome": "Pelúcia My Melody",
+        "preço": 49.99,
+        "estoque": 12,
+        "imagem": "https://www.sanrio.com/cdn/shop/products/627747-Zoom.1_800x.jpg?v=1664384628"
+    },
+    {
+        "id": 37,
+        "nome": "Pelúcia Chococat",
+        "preço": 49.99,
+        "estoque": 9,
+        "imagem": "https://www.sanrio.com/cdn/shop/files/944882-Zoom.1_800x.jpg?v=1708048818"
+    }
+]
