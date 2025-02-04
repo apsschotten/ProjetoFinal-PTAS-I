@@ -1,4 +1,4 @@
-  O tema de meu projeto é "Loja de Pelúcias".</br>
+  O tema de meu projeto é "Loja de Pelúcias". Ele pode ser encontrado através do link: https://github.com/apsschotten/ProjetoFinal-PTAS-I</br>
 </br>
   Utilizei a aplicação Postman para testar. Para que funcione é necessário que o cabeçalho "Content-Type" esteja definido como "application/json"!!</br>
 </br>
